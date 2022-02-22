@@ -1,0 +1,13 @@
+body{
+    font-family: 'Stylish', sans-serif;
+    font-size: 28px;
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: darkgreen;
+}
+h1{
+  font-size: 300%;
+}
